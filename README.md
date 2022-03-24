@@ -1,1 +1,1 @@
-# MEMSummit2022
+# MEM Summit 2022 resources
